@@ -1,0 +1,501 @@
+incident_id,description,category,subcategory,severity,solution
+MED-0001,Patient reported persistent cough. Patient age: 53. Severity: High.,Respiratory,Cough,High,"Assess duration, associated symptoms, and respiratory status."
+MED-0002,Patient reported abdominal discomfort. Patient age: 31. Severity: Low.,Gastroenterology,Abdominal Pain,Low,"Assess pain location, severity, duration, and associated symptoms."
+MED-0003,Patient reported difficulty breathing. Patient age: 21. Severity: Low.,Respiratory,Breathing Difficulty,Low,Check oxygen saturation and vital signs; escalate when required.
+MED-0004,Patient reported persistent cough. Patient age: 82. Severity: Low.,Respiratory,Cough,Low,"Assess duration, associated symptoms, and respiratory status."
+MED-0005,Patient reported chest discomfort. Patient age: 71. Severity: High.,Cardiology,Chest Pain,High,Assess vital signs and ECG; follow clinical protocol.
+MED-0006,Patient reported nausea. Patient age: 53. Severity: High.,Gastroenterology,Nausea,High,Assess hydration and associated symptoms.
+MED-0007,Patient reported chest discomfort. Patient age: 72. Severity: High.,Cardiology,Chest Pain,High,Assess vital signs and ECG; follow clinical protocol.
+MED-0008,Patient reported joint pain. Patient age: 45. Severity: Low.,Orthopedics,Joint Pain,Low,"Assess mobility, swelling, and injury history."
+MED-0009,Patient reported back pain. Patient age: 66. Severity: Low.,Orthopedics,Back Pain,Low,"Assess pain severity, movement limitations, and injury history."
+MED-0010,Patient reported difficulty breathing. Patient age: 51. Severity: Moderate.,Respiratory,Breathing Difficulty,Moderate,Check oxygen saturation and vital signs; escalate when required.
+MED-0011,Patient reported rapid or irregular heartbeat. Patient age: 33. Severity: High.,Cardiology,Palpitations,High,Check vital signs and ECG; review history and medications.
+MED-0012,Patient presented with elevated temperature. Patient age: 55. Severity: High.,General Medicine,Fever,High,"Check temperature, vital signs, and associated symptoms."
+MED-0013,Patient reported back pain. Patient age: 26. Severity: High.,Orthopedics,Back Pain,High,"Assess pain severity, movement limitations, and injury history."
+MED-0014,Patient reported chest discomfort. Patient age: 28. Severity: Moderate.,Cardiology,Chest Pain,Moderate,Assess vital signs and ECG; follow clinical protocol.
+MED-0015,Patient reported abdominal discomfort. Patient age: 53. Severity: Moderate.,Gastroenterology,Abdominal Pain,Moderate,"Assess pain location, severity, duration, and associated symptoms."
+MED-0016,Patient had a low glucose reading. Patient age: 65. Severity: Low.,Endocrinology,Low Blood Sugar,Low,Assess symptoms immediately and follow clinical emergency protocol.
+MED-0017,Patient reported back pain. Patient age: 52. Severity: High.,Orthopedics,Back Pain,High,"Assess pain severity, movement limitations, and injury history."
+MED-0018,Patient reported persistent cough. Patient age: 49. Severity: High.,Respiratory,Cough,High,"Assess duration, associated symptoms, and respiratory status."
+MED-0019,Patient reported dizziness. Patient age: 52. Severity: Moderate.,Neurology,Dizziness,Moderate,Check vital signs and neurological status.
+MED-0020,Patient reported nausea. Patient age: 47. Severity: Low.,Gastroenterology,Nausea,Low,Assess hydration and associated symptoms.
+MED-0021,Patient reported rapid or irregular heartbeat. Patient age: 52. Severity: Moderate.,Cardiology,Palpitations,Moderate,Check vital signs and ECG; review history and medications.
+MED-0022,Patient reported persistent cough. Patient age: 58. Severity: High.,Respiratory,Cough,High,"Assess duration, associated symptoms, and respiratory status."
+MED-0023,Patient reported nausea. Patient age: 76. Severity: Moderate.,Gastroenterology,Nausea,Moderate,Assess hydration and associated symptoms.
+MED-0024,Patient reported dizziness. Patient age: 49. Severity: Low.,Neurology,Dizziness,Low,Check vital signs and neurological status.
+MED-0025,Patient reported persistent itching. Patient age: 69. Severity: High.,Dermatology,Itching,High,Assess skin condition and possible triggers.
+MED-0026,Patient reported back pain. Patient age: 83. Severity: Low.,Orthopedics,Back Pain,Low,"Assess pain severity, movement limitations, and injury history."
+MED-0027,Patient had an elevated glucose reading. Patient age: 32. Severity: Low.,Endocrinology,High Blood Sugar,Low,Repeat measurement when appropriate and assess symptoms.
+MED-0028,Patient reported headache. Patient age: 72. Severity: High.,Neurology,Headache,High,"Assess severity, duration, associated symptoms, and neurological status."
+MED-0029,Patient reported difficulty breathing. Patient age: 77. Severity: Moderate.,Respiratory,Breathing Difficulty,Moderate,Check oxygen saturation and vital signs; escalate when required.
+MED-0030,Patient presented with a skin rash. Patient age: 32. Severity: High.,Dermatology,Skin Rash,High,"Assess onset, distribution, possible triggers, and associated symptoms."
+MED-0031,Patient reported persistent itching. Patient age: 55. Severity: Low.,Dermatology,Itching,Low,Assess skin condition and possible triggers.
+MED-0032,Patient presented with elevated temperature. Patient age: 18. Severity: Moderate.,General Medicine,Fever,Moderate,"Check temperature, vital signs, and associated symptoms."
+MED-0033,Patient presented with a skin rash. Patient age: 31. Severity: High.,Dermatology,Skin Rash,High,"Assess onset, distribution, possible triggers, and associated symptoms."
+MED-0034,Patient presented with a skin rash. Patient age: 65. Severity: Low.,Dermatology,Skin Rash,Low,"Assess onset, distribution, possible triggers, and associated symptoms."
+MED-0035,Patient reported headache. Patient age: 59. Severity: High.,Neurology,Headache,High,"Assess severity, duration, associated symptoms, and neurological status."
+MED-0036,Patient had an elevated glucose reading. Patient age: 64. Severity: Low.,Endocrinology,High Blood Sugar,Low,Repeat measurement when appropriate and assess symptoms.
+MED-0037,Patient presented with a skin rash. Patient age: 48. Severity: Low.,Dermatology,Skin Rash,Low,"Assess onset, distribution, possible triggers, and associated symptoms."
+MED-0038,Patient reported persistent cough. Patient age: 80. Severity: High.,Respiratory,Cough,High,"Assess duration, associated symptoms, and respiratory status."
+MED-0039,Patient reported persistent cough. Patient age: 78. Severity: Low.,Respiratory,Cough,Low,"Assess duration, associated symptoms, and respiratory status."
+MED-0040,Patient reported dizziness. Patient age: 72. Severity: High.,Neurology,Dizziness,High,Check vital signs and neurological status.
+MED-0041,Patient reported abdominal discomfort. Patient age: 57. Severity: High.,Gastroenterology,Abdominal Pain,High,"Assess pain location, severity, duration, and associated symptoms."
+MED-0042,Patient reported unusual tiredness. Patient age: 84. Severity: Moderate.,General Medicine,Fatigue,Moderate,"Review duration, sleep, medications, and associated symptoms."
+MED-0043,Patient had an elevated glucose reading. Patient age: 46. Severity: Low.,Endocrinology,High Blood Sugar,Low,Repeat measurement when appropriate and assess symptoms.
+MED-0044,Patient reported difficulty breathing. Patient age: 47. Severity: Low.,Respiratory,Breathing Difficulty,Low,Check oxygen saturation and vital signs; escalate when required.
+MED-0045,Patient reported abdominal discomfort. Patient age: 25. Severity: Low.,Gastroenterology,Abdominal Pain,Low,"Assess pain location, severity, duration, and associated symptoms."
+MED-0046,Patient reported abdominal discomfort. Patient age: 60. Severity: Low.,Gastroenterology,Abdominal Pain,Low,"Assess pain location, severity, duration, and associated symptoms."
+MED-0047,Patient reported persistent cough. Patient age: 80. Severity: Moderate.,Respiratory,Cough,Moderate,"Assess duration, associated symptoms, and respiratory status."
+MED-0048,Patient reported abdominal discomfort. Patient age: 78. Severity: High.,Gastroenterology,Abdominal Pain,High,"Assess pain location, severity, duration, and associated symptoms."
+MED-0049,Patient reported nausea. Patient age: 42. Severity: Moderate.,Gastroenterology,Nausea,Moderate,Assess hydration and associated symptoms.
+MED-0050,Patient reported persistent cough. Patient age: 73. Severity: High.,Respiratory,Cough,High,"Assess duration, associated symptoms, and respiratory status."
+MED-0051,Patient reported joint pain. Patient age: 77. Severity: Moderate.,Orthopedics,Joint Pain,Moderate,"Assess mobility, swelling, and injury history."
+MED-0052,Patient reported chest discomfort. Patient age: 69. Severity: Low.,Cardiology,Chest Pain,Low,Assess vital signs and ECG; follow clinical protocol.
+MED-0053,Patient reported back pain. Patient age: 42. Severity: Low.,Orthopedics,Back Pain,Low,"Assess pain severity, movement limitations, and injury history."
+MED-0054,Patient reported nausea. Patient age: 72. Severity: Low.,Gastroenterology,Nausea,Low,Assess hydration and associated symptoms.
+MED-0055,Patient reported dizziness. Patient age: 49. Severity: Moderate.,Neurology,Dizziness,Moderate,Check vital signs and neurological status.
+MED-0056,Patient reported difficulty breathing. Patient age: 30. Severity: High.,Respiratory,Breathing Difficulty,High,Check oxygen saturation and vital signs; escalate when required.
+MED-0057,Patient reported chest discomfort. Patient age: 48. Severity: Low.,Cardiology,Chest Pain,Low,Assess vital signs and ECG; follow clinical protocol.
+MED-0058,Patient reported dizziness. Patient age: 79. Severity: Moderate.,Neurology,Dizziness,Moderate,Check vital signs and neurological status.
+MED-0059,Patient reported nausea. Patient age: 39. Severity: Low.,Gastroenterology,Nausea,Low,Assess hydration and associated symptoms.
+MED-0060,Patient presented with elevated temperature. Patient age: 51. Severity: Moderate.,General Medicine,Fever,Moderate,"Check temperature, vital signs, and associated symptoms."
+MED-0061,Patient had a low glucose reading. Patient age: 80. Severity: Moderate.,Endocrinology,Low Blood Sugar,Moderate,Assess symptoms immediately and follow clinical emergency protocol.
+MED-0062,Patient reported headache. Patient age: 45. Severity: Moderate.,Neurology,Headache,Moderate,"Assess severity, duration, associated symptoms, and neurological status."
+MED-0063,Patient reported chest discomfort. Patient age: 58. Severity: High.,Cardiology,Chest Pain,High,Assess vital signs and ECG; follow clinical protocol.
+MED-0064,Patient reported chest discomfort. Patient age: 79. Severity: High.,Cardiology,Chest Pain,High,Assess vital signs and ECG; follow clinical protocol.
+MED-0065,Patient reported headache. Patient age: 28. Severity: High.,Neurology,Headache,High,"Assess severity, duration, associated symptoms, and neurological status."
+MED-0066,Patient reported headache. Patient age: 26. Severity: High.,Neurology,Headache,High,"Assess severity, duration, associated symptoms, and neurological status."
+MED-0067,Patient reported nausea. Patient age: 49. Severity: Low.,Gastroenterology,Nausea,Low,Assess hydration and associated symptoms.
+MED-0068,Patient reported chest discomfort. Patient age: 84. Severity: Moderate.,Cardiology,Chest Pain,Moderate,Assess vital signs and ECG; follow clinical protocol.
+MED-0069,Patient reported joint pain. Patient age: 58. Severity: Low.,Orthopedics,Joint Pain,Low,"Assess mobility, swelling, and injury history."
+MED-0070,Patient reported nausea. Patient age: 34. Severity: Moderate.,Gastroenterology,Nausea,Moderate,Assess hydration and associated symptoms.
+MED-0071,Patient reported persistent itching. Patient age: 27. Severity: Moderate.,Dermatology,Itching,Moderate,Assess skin condition and possible triggers.
+MED-0072,Patient reported rapid or irregular heartbeat. Patient age: 30. Severity: High.,Cardiology,Palpitations,High,Check vital signs and ECG; review history and medications.
+MED-0073,Patient reported persistent cough. Patient age: 51. Severity: High.,Respiratory,Cough,High,"Assess duration, associated symptoms, and respiratory status."
+MED-0074,Patient reported dizziness. Patient age: 49. Severity: Low.,Neurology,Dizziness,Low,Check vital signs and neurological status.
+MED-0075,Patient reported joint pain. Patient age: 74. Severity: Low.,Orthopedics,Joint Pain,Low,"Assess mobility, swelling, and injury history."
+MED-0076,Patient presented with a skin rash. Patient age: 56. Severity: High.,Dermatology,Skin Rash,High,"Assess onset, distribution, possible triggers, and associated symptoms."
+MED-0077,Patient reported persistent cough. Patient age: 32. Severity: Moderate.,Respiratory,Cough,Moderate,"Assess duration, associated symptoms, and respiratory status."
+MED-0078,Patient reported persistent cough. Patient age: 54. Severity: Moderate.,Respiratory,Cough,Moderate,"Assess duration, associated symptoms, and respiratory status."
+MED-0079,Patient reported nausea. Patient age: 51. Severity: Low.,Gastroenterology,Nausea,Low,Assess hydration and associated symptoms.
+MED-0080,Patient had a low glucose reading. Patient age: 29. Severity: Low.,Endocrinology,Low Blood Sugar,Low,Assess symptoms immediately and follow clinical emergency protocol.
+MED-0081,Patient reported unusual tiredness. Patient age: 18. Severity: Low.,General Medicine,Fatigue,Low,"Review duration, sleep, medications, and associated symptoms."
+MED-0082,Patient reported back pain. Patient age: 51. Severity: High.,Orthopedics,Back Pain,High,"Assess pain severity, movement limitations, and injury history."
+MED-0083,Patient reported dizziness. Patient age: 72. Severity: High.,Neurology,Dizziness,High,Check vital signs and neurological status.
+MED-0084,Patient reported chest discomfort. Patient age: 37. Severity: Low.,Cardiology,Chest Pain,Low,Assess vital signs and ECG; follow clinical protocol.
+MED-0085,Patient reported rapid or irregular heartbeat. Patient age: 36. Severity: High.,Cardiology,Palpitations,High,Check vital signs and ECG; review history and medications.
+MED-0086,Patient presented with elevated temperature. Patient age: 57. Severity: Low.,General Medicine,Fever,Low,"Check temperature, vital signs, and associated symptoms."
+MED-0087,Patient reported back pain. Patient age: 44. Severity: Moderate.,Orthopedics,Back Pain,Moderate,"Assess pain severity, movement limitations, and injury history."
+MED-0088,Patient reported abdominal discomfort. Patient age: 70. Severity: Moderate.,Gastroenterology,Abdominal Pain,Moderate,"Assess pain location, severity, duration, and associated symptoms."
+MED-0089,Patient reported headache. Patient age: 40. Severity: Low.,Neurology,Headache,Low,"Assess severity, duration, associated symptoms, and neurological status."
+MED-0090,Patient presented with elevated temperature. Patient age: 60. Severity: Low.,General Medicine,Fever,Low,"Check temperature, vital signs, and associated symptoms."
+MED-0091,Patient presented with elevated temperature. Patient age: 38. Severity: Moderate.,General Medicine,Fever,Moderate,"Check temperature, vital signs, and associated symptoms."
+MED-0092,Patient reported difficulty breathing. Patient age: 78. Severity: Low.,Respiratory,Breathing Difficulty,Low,Check oxygen saturation and vital signs; escalate when required.
+MED-0093,Patient reported abdominal discomfort. Patient age: 62. Severity: Moderate.,Gastroenterology,Abdominal Pain,Moderate,"Assess pain location, severity, duration, and associated symptoms."
+MED-0094,Patient presented with a skin rash. Patient age: 21. Severity: Low.,Dermatology,Skin Rash,Low,"Assess onset, distribution, possible triggers, and associated symptoms."
+MED-0095,Patient reported nausea. Patient age: 53. Severity: Moderate.,Gastroenterology,Nausea,Moderate,Assess hydration and associated symptoms.
+MED-0096,Patient reported difficulty breathing. Patient age: 83. Severity: Moderate.,Respiratory,Breathing Difficulty,Moderate,Check oxygen saturation and vital signs; escalate when required.
+MED-0097,Patient reported unusual tiredness. Patient age: 32. Severity: Low.,General Medicine,Fatigue,Low,"Review duration, sleep, medications, and associated symptoms."
+MED-0098,Patient presented with a skin rash. Patient age: 51. Severity: High.,Dermatology,Skin Rash,High,"Assess onset, distribution, possible triggers, and associated symptoms."
+MED-0099,Patient reported chest discomfort. Patient age: 73. Severity: High.,Cardiology,Chest Pain,High,Assess vital signs and ECG; follow clinical protocol.
+MED-0100,Patient reported joint pain. Patient age: 83. Severity: Moderate.,Orthopedics,Joint Pain,Moderate,"Assess mobility, swelling, and injury history."
+MED-0101,Patient reported difficulty breathing. Patient age: 42. Severity: High.,Respiratory,Breathing Difficulty,High,Check oxygen saturation and vital signs; escalate when required.
+MED-0102,Patient presented with a skin rash. Patient age: 73. Severity: High.,Dermatology,Skin Rash,High,"Assess onset, distribution, possible triggers, and associated symptoms."
+MED-0103,Patient reported chest discomfort. Patient age: 73. Severity: Moderate.,Cardiology,Chest Pain,Moderate,Assess vital signs and ECG; follow clinical protocol.
+MED-0104,Patient reported difficulty breathing. Patient age: 58. Severity: High.,Respiratory,Breathing Difficulty,High,Check oxygen saturation and vital signs; escalate when required.
+MED-0105,Patient reported difficulty breathing. Patient age: 57. Severity: High.,Respiratory,Breathing Difficulty,High,Check oxygen saturation and vital signs; escalate when required.
+MED-0106,Patient reported unusual tiredness. Patient age: 55. Severity: Moderate.,General Medicine,Fatigue,Moderate,"Review duration, sleep, medications, and associated symptoms."
+MED-0107,Patient reported headache. Patient age: 66. Severity: Moderate.,Neurology,Headache,Moderate,"Assess severity, duration, associated symptoms, and neurological status."
+MED-0108,Patient reported dizziness. Patient age: 18. Severity: Moderate.,Neurology,Dizziness,Moderate,Check vital signs and neurological status.
+MED-0109,Patient reported persistent itching. Patient age: 73. Severity: Low.,Dermatology,Itching,Low,Assess skin condition and possible triggers.
+MED-0110,Patient reported joint pain. Patient age: 74. Severity: Moderate.,Orthopedics,Joint Pain,Moderate,"Assess mobility, swelling, and injury history."
+MED-0111,Patient reported nausea. Patient age: 39. Severity: High.,Gastroenterology,Nausea,High,Assess hydration and associated symptoms.
+MED-0112,Patient reported difficulty breathing. Patient age: 60. Severity: High.,Respiratory,Breathing Difficulty,High,Check oxygen saturation and vital signs; escalate when required.
+MED-0113,Patient reported persistent cough. Patient age: 57. Severity: High.,Respiratory,Cough,High,"Assess duration, associated symptoms, and respiratory status."
+MED-0114,Patient reported abdominal discomfort. Patient age: 21. Severity: Low.,Gastroenterology,Abdominal Pain,Low,"Assess pain location, severity, duration, and associated symptoms."
+MED-0115,Patient reported chest discomfort. Patient age: 27. Severity: Moderate.,Cardiology,Chest Pain,Moderate,Assess vital signs and ECG; follow clinical protocol.
+MED-0116,Patient had a low glucose reading. Patient age: 42. Severity: High.,Endocrinology,Low Blood Sugar,High,Assess symptoms immediately and follow clinical emergency protocol.
+MED-0117,Patient reported unusual tiredness. Patient age: 49. Severity: Moderate.,General Medicine,Fatigue,Moderate,"Review duration, sleep, medications, and associated symptoms."
+MED-0118,Patient reported headache. Patient age: 72. Severity: Low.,Neurology,Headache,Low,"Assess severity, duration, associated symptoms, and neurological status."
+MED-0119,Patient reported abdominal discomfort. Patient age: 84. Severity: High.,Gastroenterology,Abdominal Pain,High,"Assess pain location, severity, duration, and associated symptoms."
+MED-0120,Patient had an elevated glucose reading. Patient age: 49. Severity: High.,Endocrinology,High Blood Sugar,High,Repeat measurement when appropriate and assess symptoms.
+MED-0121,Patient reported difficulty breathing. Patient age: 77. Severity: Low.,Respiratory,Breathing Difficulty,Low,Check oxygen saturation and vital signs; escalate when required.
+MED-0122,Patient reported joint pain. Patient age: 82. Severity: High.,Orthopedics,Joint Pain,High,"Assess mobility, swelling, and injury history."
+MED-0123,Patient reported unusual tiredness. Patient age: 78. Severity: Low.,General Medicine,Fatigue,Low,"Review duration, sleep, medications, and associated symptoms."
+MED-0124,Patient had a low glucose reading. Patient age: 53. Severity: Low.,Endocrinology,Low Blood Sugar,Low,Assess symptoms immediately and follow clinical emergency protocol.
+MED-0125,Patient had an elevated glucose reading. Patient age: 74. Severity: Moderate.,Endocrinology,High Blood Sugar,Moderate,Repeat measurement when appropriate and assess symptoms.
+MED-0126,Patient reported difficulty breathing. Patient age: 52. Severity: Low.,Respiratory,Breathing Difficulty,Low,Check oxygen saturation and vital signs; escalate when required.
+MED-0127,Patient reported joint pain. Patient age: 28. Severity: High.,Orthopedics,Joint Pain,High,"Assess mobility, swelling, and injury history."
+MED-0128,Patient reported headache. Patient age: 67. Severity: Low.,Neurology,Headache,Low,"Assess severity, duration, associated symptoms, and neurological status."
+MED-0129,Patient reported headache. Patient age: 71. Severity: Low.,Neurology,Headache,Low,"Assess severity, duration, associated symptoms, and neurological status."
+MED-0130,Patient reported unusual tiredness. Patient age: 77. Severity: High.,General Medicine,Fatigue,High,"Review duration, sleep, medications, and associated symptoms."
+MED-0131,Patient presented with elevated temperature. Patient age: 71. Severity: Low.,General Medicine,Fever,Low,"Check temperature, vital signs, and associated symptoms."
+MED-0132,Patient presented with elevated temperature. Patient age: 66. Severity: High.,General Medicine,Fever,High,"Check temperature, vital signs, and associated symptoms."
+MED-0133,Patient had an elevated glucose reading. Patient age: 56. Severity: Moderate.,Endocrinology,High Blood Sugar,Moderate,Repeat measurement when appropriate and assess symptoms.
+MED-0134,Patient reported unusual tiredness. Patient age: 46. Severity: High.,General Medicine,Fatigue,High,"Review duration, sleep, medications, and associated symptoms."
+MED-0135,Patient had an elevated glucose reading. Patient age: 73. Severity: Moderate.,Endocrinology,High Blood Sugar,Moderate,Repeat measurement when appropriate and assess symptoms.
+MED-0136,Patient had an elevated glucose reading. Patient age: 61. Severity: Moderate.,Endocrinology,High Blood Sugar,Moderate,Repeat measurement when appropriate and assess symptoms.
+MED-0137,Patient presented with elevated temperature. Patient age: 34. Severity: Moderate.,General Medicine,Fever,Moderate,"Check temperature, vital signs, and associated symptoms."
+MED-0138,Patient reported rapid or irregular heartbeat. Patient age: 21. Severity: High.,Cardiology,Palpitations,High,Check vital signs and ECG; review history and medications.
+MED-0139,Patient reported difficulty breathing. Patient age: 77. Severity: Low.,Respiratory,Breathing Difficulty,Low,Check oxygen saturation and vital signs; escalate when required.
+MED-0140,Patient reported headache. Patient age: 66. Severity: Moderate.,Neurology,Headache,Moderate,"Assess severity, duration, associated symptoms, and neurological status."
+MED-0141,Patient reported back pain. Patient age: 59. Severity: Moderate.,Orthopedics,Back Pain,Moderate,"Assess pain severity, movement limitations, and injury history."
+MED-0142,Patient reported joint pain. Patient age: 71. Severity: Moderate.,Orthopedics,Joint Pain,Moderate,"Assess mobility, swelling, and injury history."
+MED-0143,Patient presented with a skin rash. Patient age: 20. Severity: Moderate.,Dermatology,Skin Rash,Moderate,"Assess onset, distribution, possible triggers, and associated symptoms."
+MED-0144,Patient reported rapid or irregular heartbeat. Patient age: 26. Severity: Low.,Cardiology,Palpitations,Low,Check vital signs and ECG; review history and medications.
+MED-0145,Patient reported chest discomfort. Patient age: 43. Severity: Low.,Cardiology,Chest Pain,Low,Assess vital signs and ECG; follow clinical protocol.
+MED-0146,Patient reported chest discomfort. Patient age: 34. Severity: Low.,Cardiology,Chest Pain,Low,Assess vital signs and ECG; follow clinical protocol.
+MED-0147,Patient had an elevated glucose reading. Patient age: 45. Severity: High.,Endocrinology,High Blood Sugar,High,Repeat measurement when appropriate and assess symptoms.
+MED-0148,Patient had a low glucose reading. Patient age: 39. Severity: Moderate.,Endocrinology,Low Blood Sugar,Moderate,Assess symptoms immediately and follow clinical emergency protocol.
+MED-0149,Patient reported persistent cough. Patient age: 31. Severity: Moderate.,Respiratory,Cough,Moderate,"Assess duration, associated symptoms, and respiratory status."
+MED-0150,Patient reported rapid or irregular heartbeat. Patient age: 66. Severity: High.,Cardiology,Palpitations,High,Check vital signs and ECG; review history and medications.
+MED-0151,Patient presented with elevated temperature. Patient age: 49. Severity: Low.,General Medicine,Fever,Low,"Check temperature, vital signs, and associated symptoms."
+MED-0152,Patient reported difficulty breathing. Patient age: 33. Severity: High.,Respiratory,Breathing Difficulty,High,Check oxygen saturation and vital signs; escalate when required.
+MED-0153,Patient reported rapid or irregular heartbeat. Patient age: 72. Severity: High.,Cardiology,Palpitations,High,Check vital signs and ECG; review history and medications.
+MED-0154,Patient reported back pain. Patient age: 61. Severity: High.,Orthopedics,Back Pain,High,"Assess pain severity, movement limitations, and injury history."
+MED-0155,Patient reported rapid or irregular heartbeat. Patient age: 31. Severity: Moderate.,Cardiology,Palpitations,Moderate,Check vital signs and ECG; review history and medications.
+MED-0156,Patient reported unusual tiredness. Patient age: 76. Severity: High.,General Medicine,Fatigue,High,"Review duration, sleep, medications, and associated symptoms."
+MED-0157,Patient reported dizziness. Patient age: 84. Severity: Low.,Neurology,Dizziness,Low,Check vital signs and neurological status.
+MED-0158,Patient reported persistent itching. Patient age: 73. Severity: Moderate.,Dermatology,Itching,Moderate,Assess skin condition and possible triggers.
+MED-0159,Patient reported persistent itching. Patient age: 29. Severity: Low.,Dermatology,Itching,Low,Assess skin condition and possible triggers.
+MED-0160,Patient reported persistent itching. Patient age: 77. Severity: Low.,Dermatology,Itching,Low,Assess skin condition and possible triggers.
+MED-0161,Patient reported unusual tiredness. Patient age: 81. Severity: Low.,General Medicine,Fatigue,Low,"Review duration, sleep, medications, and associated symptoms."
+MED-0162,Patient reported back pain. Patient age: 45. Severity: Moderate.,Orthopedics,Back Pain,Moderate,"Assess pain severity, movement limitations, and injury history."
+MED-0163,Patient reported joint pain. Patient age: 53. Severity: Moderate.,Orthopedics,Joint Pain,Moderate,"Assess mobility, swelling, and injury history."
+MED-0164,Patient presented with a skin rash. Patient age: 42. Severity: High.,Dermatology,Skin Rash,High,"Assess onset, distribution, possible triggers, and associated symptoms."
+MED-0165,Patient reported persistent cough. Patient age: 70. Severity: High.,Respiratory,Cough,High,"Assess duration, associated symptoms, and respiratory status."
+MED-0166,Patient had an elevated glucose reading. Patient age: 78. Severity: High.,Endocrinology,High Blood Sugar,High,Repeat measurement when appropriate and assess symptoms.
+MED-0167,Patient had a low glucose reading. Patient age: 29. Severity: Low.,Endocrinology,Low Blood Sugar,Low,Assess symptoms immediately and follow clinical emergency protocol.
+MED-0168,Patient presented with a skin rash. Patient age: 49. Severity: Moderate.,Dermatology,Skin Rash,Moderate,"Assess onset, distribution, possible triggers, and associated symptoms."
+MED-0169,Patient reported persistent itching. Patient age: 85. Severity: Moderate.,Dermatology,Itching,Moderate,Assess skin condition and possible triggers.
+MED-0170,Patient reported joint pain. Patient age: 60. Severity: High.,Orthopedics,Joint Pain,High,"Assess mobility, swelling, and injury history."
+MED-0171,Patient reported joint pain. Patient age: 57. Severity: Moderate.,Orthopedics,Joint Pain,Moderate,"Assess mobility, swelling, and injury history."
+MED-0172,Patient presented with a skin rash. Patient age: 42. Severity: Low.,Dermatology,Skin Rash,Low,"Assess onset, distribution, possible triggers, and associated symptoms."
+MED-0173,Patient reported back pain. Patient age: 41. Severity: High.,Orthopedics,Back Pain,High,"Assess pain severity, movement limitations, and injury history."
+MED-0174,Patient reported abdominal discomfort. Patient age: 79. Severity: High.,Gastroenterology,Abdominal Pain,High,"Assess pain location, severity, duration, and associated symptoms."
+MED-0175,Patient reported persistent itching. Patient age: 42. Severity: Low.,Dermatology,Itching,Low,Assess skin condition and possible triggers.
+MED-0176,Patient presented with a skin rash. Patient age: 40. Severity: Moderate.,Dermatology,Skin Rash,Moderate,"Assess onset, distribution, possible triggers, and associated symptoms."
+MED-0177,Patient presented with a skin rash. Patient age: 34. Severity: High.,Dermatology,Skin Rash,High,"Assess onset, distribution, possible triggers, and associated symptoms."
+MED-0178,Patient presented with a skin rash. Patient age: 55. Severity: Low.,Dermatology,Skin Rash,Low,"Assess onset, distribution, possible triggers, and associated symptoms."
+MED-0179,Patient reported dizziness. Patient age: 19. Severity: Low.,Neurology,Dizziness,Low,Check vital signs and neurological status.
+MED-0180,Patient reported persistent itching. Patient age: 74. Severity: Moderate.,Dermatology,Itching,Moderate,Assess skin condition and possible triggers.
+MED-0181,Patient reported back pain. Patient age: 50. Severity: Low.,Orthopedics,Back Pain,Low,"Assess pain severity, movement limitations, and injury history."
+MED-0182,Patient had an elevated glucose reading. Patient age: 69. Severity: Low.,Endocrinology,High Blood Sugar,Low,Repeat measurement when appropriate and assess symptoms.
+MED-0183,Patient had an elevated glucose reading. Patient age: 24. Severity: High.,Endocrinology,High Blood Sugar,High,Repeat measurement when appropriate and assess symptoms.
+MED-0184,Patient reported headache. Patient age: 56. Severity: High.,Neurology,Headache,High,"Assess severity, duration, associated symptoms, and neurological status."
+MED-0185,Patient reported persistent cough. Patient age: 71. Severity: Low.,Respiratory,Cough,Low,"Assess duration, associated symptoms, and respiratory status."
+MED-0186,Patient reported nausea. Patient age: 74. Severity: Moderate.,Gastroenterology,Nausea,Moderate,Assess hydration and associated symptoms.
+MED-0187,Patient reported persistent itching. Patient age: 25. Severity: Moderate.,Dermatology,Itching,Moderate,Assess skin condition and possible triggers.
+MED-0188,Patient reported persistent cough. Patient age: 45. Severity: High.,Respiratory,Cough,High,"Assess duration, associated symptoms, and respiratory status."
+MED-0189,Patient presented with a skin rash. Patient age: 48. Severity: Low.,Dermatology,Skin Rash,Low,"Assess onset, distribution, possible triggers, and associated symptoms."
+MED-0190,Patient reported headache. Patient age: 18. Severity: Low.,Neurology,Headache,Low,"Assess severity, duration, associated symptoms, and neurological status."
+MED-0191,Patient reported unusual tiredness. Patient age: 78. Severity: High.,General Medicine,Fatigue,High,"Review duration, sleep, medications, and associated symptoms."
+MED-0192,Patient presented with a skin rash. Patient age: 54. Severity: Low.,Dermatology,Skin Rash,Low,"Assess onset, distribution, possible triggers, and associated symptoms."
+MED-0193,Patient reported persistent itching. Patient age: 47. Severity: Low.,Dermatology,Itching,Low,Assess skin condition and possible triggers.
+MED-0194,Patient presented with a skin rash. Patient age: 32. Severity: Moderate.,Dermatology,Skin Rash,Moderate,"Assess onset, distribution, possible triggers, and associated symptoms."
+MED-0195,Patient reported abdominal discomfort. Patient age: 36. Severity: Moderate.,Gastroenterology,Abdominal Pain,Moderate,"Assess pain location, severity, duration, and associated symptoms."
+MED-0196,Patient reported persistent cough. Patient age: 57. Severity: Low.,Respiratory,Cough,Low,"Assess duration, associated symptoms, and respiratory status."
+MED-0197,Patient reported persistent itching. Patient age: 77. Severity: Low.,Dermatology,Itching,Low,Assess skin condition and possible triggers.
+MED-0198,Patient reported persistent itching. Patient age: 82. Severity: Moderate.,Dermatology,Itching,Moderate,Assess skin condition and possible triggers.
+MED-0199,Patient had a low glucose reading. Patient age: 23. Severity: Low.,Endocrinology,Low Blood Sugar,Low,Assess symptoms immediately and follow clinical emergency protocol.
+MED-0200,Patient reported unusual tiredness. Patient age: 50. Severity: High.,General Medicine,Fatigue,High,"Review duration, sleep, medications, and associated symptoms."
+MED-0201,Patient reported chest discomfort. Patient age: 20. Severity: Low.,Cardiology,Chest Pain,Low,Assess vital signs and ECG; follow clinical protocol.
+MED-0202,Patient presented with a skin rash. Patient age: 78. Severity: Low.,Dermatology,Skin Rash,Low,"Assess onset, distribution, possible triggers, and associated symptoms."
+MED-0203,Patient had a low glucose reading. Patient age: 73. Severity: Low.,Endocrinology,Low Blood Sugar,Low,Assess symptoms immediately and follow clinical emergency protocol.
+MED-0204,Patient had an elevated glucose reading. Patient age: 62. Severity: Moderate.,Endocrinology,High Blood Sugar,Moderate,Repeat measurement when appropriate and assess symptoms.
+MED-0205,Patient reported unusual tiredness. Patient age: 31. Severity: Moderate.,General Medicine,Fatigue,Moderate,"Review duration, sleep, medications, and associated symptoms."
+MED-0206,Patient reported dizziness. Patient age: 81. Severity: Moderate.,Neurology,Dizziness,Moderate,Check vital signs and neurological status.
+MED-0207,Patient reported persistent itching. Patient age: 22. Severity: High.,Dermatology,Itching,High,Assess skin condition and possible triggers.
+MED-0208,Patient had an elevated glucose reading. Patient age: 50. Severity: Moderate.,Endocrinology,High Blood Sugar,Moderate,Repeat measurement when appropriate and assess symptoms.
+MED-0209,Patient reported back pain. Patient age: 83. Severity: Moderate.,Orthopedics,Back Pain,Moderate,"Assess pain severity, movement limitations, and injury history."
+MED-0210,Patient reported rapid or irregular heartbeat. Patient age: 24. Severity: Moderate.,Cardiology,Palpitations,Moderate,Check vital signs and ECG; review history and medications.
+MED-0211,Patient reported nausea. Patient age: 81. Severity: High.,Gastroenterology,Nausea,High,Assess hydration and associated symptoms.
+MED-0212,Patient had an elevated glucose reading. Patient age: 52. Severity: Low.,Endocrinology,High Blood Sugar,Low,Repeat measurement when appropriate and assess symptoms.
+MED-0213,Patient reported dizziness. Patient age: 80. Severity: Moderate.,Neurology,Dizziness,Moderate,Check vital signs and neurological status.
+MED-0214,Patient reported persistent cough. Patient age: 48. Severity: High.,Respiratory,Cough,High,"Assess duration, associated symptoms, and respiratory status."
+MED-0215,Patient reported dizziness. Patient age: 19. Severity: High.,Neurology,Dizziness,High,Check vital signs and neurological status.
+MED-0216,Patient presented with elevated temperature. Patient age: 32. Severity: Low.,General Medicine,Fever,Low,"Check temperature, vital signs, and associated symptoms."
+MED-0217,Patient had an elevated glucose reading. Patient age: 37. Severity: High.,Endocrinology,High Blood Sugar,High,Repeat measurement when appropriate and assess symptoms.
+MED-0218,Patient had a low glucose reading. Patient age: 52. Severity: High.,Endocrinology,Low Blood Sugar,High,Assess symptoms immediately and follow clinical emergency protocol.
+MED-0219,Patient reported unusual tiredness. Patient age: 49. Severity: Moderate.,General Medicine,Fatigue,Moderate,"Review duration, sleep, medications, and associated symptoms."
+MED-0220,Patient had an elevated glucose reading. Patient age: 42. Severity: Moderate.,Endocrinology,High Blood Sugar,Moderate,Repeat measurement when appropriate and assess symptoms.
+MED-0221,Patient reported headache. Patient age: 71. Severity: Moderate.,Neurology,Headache,Moderate,"Assess severity, duration, associated symptoms, and neurological status."
+MED-0222,Patient reported joint pain. Patient age: 54. Severity: Low.,Orthopedics,Joint Pain,Low,"Assess mobility, swelling, and injury history."
+MED-0223,Patient reported persistent itching. Patient age: 75. Severity: Low.,Dermatology,Itching,Low,Assess skin condition and possible triggers.
+MED-0224,Patient had a low glucose reading. Patient age: 66. Severity: Moderate.,Endocrinology,Low Blood Sugar,Moderate,Assess symptoms immediately and follow clinical emergency protocol.
+MED-0225,Patient had a low glucose reading. Patient age: 48. Severity: Low.,Endocrinology,Low Blood Sugar,Low,Assess symptoms immediately and follow clinical emergency protocol.
+MED-0226,Patient presented with elevated temperature. Patient age: 23. Severity: Moderate.,General Medicine,Fever,Moderate,"Check temperature, vital signs, and associated symptoms."
+MED-0227,Patient reported joint pain. Patient age: 66. Severity: High.,Orthopedics,Joint Pain,High,"Assess mobility, swelling, and injury history."
+MED-0228,Patient presented with elevated temperature. Patient age: 22. Severity: Moderate.,General Medicine,Fever,Moderate,"Check temperature, vital signs, and associated symptoms."
+MED-0229,Patient reported dizziness. Patient age: 74. Severity: Low.,Neurology,Dizziness,Low,Check vital signs and neurological status.
+MED-0230,Patient reported difficulty breathing. Patient age: 36. Severity: Low.,Respiratory,Breathing Difficulty,Low,Check oxygen saturation and vital signs; escalate when required.
+MED-0231,Patient presented with elevated temperature. Patient age: 78. Severity: Low.,General Medicine,Fever,Low,"Check temperature, vital signs, and associated symptoms."
+MED-0232,Patient reported persistent itching. Patient age: 68. Severity: High.,Dermatology,Itching,High,Assess skin condition and possible triggers.
+MED-0233,Patient reported difficulty breathing. Patient age: 66. Severity: High.,Respiratory,Breathing Difficulty,High,Check oxygen saturation and vital signs; escalate when required.
+MED-0234,Patient reported joint pain. Patient age: 22. Severity: High.,Orthopedics,Joint Pain,High,"Assess mobility, swelling, and injury history."
+MED-0235,Patient reported persistent cough. Patient age: 54. Severity: High.,Respiratory,Cough,High,"Assess duration, associated symptoms, and respiratory status."
+MED-0236,Patient reported abdominal discomfort. Patient age: 30. Severity: Moderate.,Gastroenterology,Abdominal Pain,Moderate,"Assess pain location, severity, duration, and associated symptoms."
+MED-0237,Patient reported difficulty breathing. Patient age: 56. Severity: Low.,Respiratory,Breathing Difficulty,Low,Check oxygen saturation and vital signs; escalate when required.
+MED-0238,Patient reported chest discomfort. Patient age: 25. Severity: Moderate.,Cardiology,Chest Pain,Moderate,Assess vital signs and ECG; follow clinical protocol.
+MED-0239,Patient reported persistent itching. Patient age: 73. Severity: Moderate.,Dermatology,Itching,Moderate,Assess skin condition and possible triggers.
+MED-0240,Patient reported headache. Patient age: 70. Severity: High.,Neurology,Headache,High,"Assess severity, duration, associated symptoms, and neurological status."
+MED-0241,Patient reported headache. Patient age: 28. Severity: Low.,Neurology,Headache,Low,"Assess severity, duration, associated symptoms, and neurological status."
+MED-0242,Patient presented with elevated temperature. Patient age: 36. Severity: Moderate.,General Medicine,Fever,Moderate,"Check temperature, vital signs, and associated symptoms."
+MED-0243,Patient reported nausea. Patient age: 50. Severity: High.,Gastroenterology,Nausea,High,Assess hydration and associated symptoms.
+MED-0244,Patient had a low glucose reading. Patient age: 19. Severity: High.,Endocrinology,Low Blood Sugar,High,Assess symptoms immediately and follow clinical emergency protocol.
+MED-0245,Patient had a low glucose reading. Patient age: 38. Severity: High.,Endocrinology,Low Blood Sugar,High,Assess symptoms immediately and follow clinical emergency protocol.
+MED-0246,Patient reported difficulty breathing. Patient age: 56. Severity: Moderate.,Respiratory,Breathing Difficulty,Moderate,Check oxygen saturation and vital signs; escalate when required.
+MED-0247,Patient reported unusual tiredness. Patient age: 56. Severity: Moderate.,General Medicine,Fatigue,Moderate,"Review duration, sleep, medications, and associated symptoms."
+MED-0248,Patient reported nausea. Patient age: 31. Severity: Moderate.,Gastroenterology,Nausea,Moderate,Assess hydration and associated symptoms.
+MED-0249,Patient reported nausea. Patient age: 63. Severity: High.,Gastroenterology,Nausea,High,Assess hydration and associated symptoms.
+MED-0250,Patient reported persistent itching. Patient age: 68. Severity: Low.,Dermatology,Itching,Low,Assess skin condition and possible triggers.
+MED-0251,Patient presented with a skin rash. Patient age: 24. Severity: High.,Dermatology,Skin Rash,High,"Assess onset, distribution, possible triggers, and associated symptoms."
+MED-0252,Patient had a low glucose reading. Patient age: 63. Severity: Low.,Endocrinology,Low Blood Sugar,Low,Assess symptoms immediately and follow clinical emergency protocol.
+MED-0253,Patient reported abdominal discomfort. Patient age: 50. Severity: High.,Gastroenterology,Abdominal Pain,High,"Assess pain location, severity, duration, and associated symptoms."
+MED-0254,Patient reported headache. Patient age: 23. Severity: High.,Neurology,Headache,High,"Assess severity, duration, associated symptoms, and neurological status."
+MED-0255,Patient reported persistent itching. Patient age: 64. Severity: Low.,Dermatology,Itching,Low,Assess skin condition and possible triggers.
+MED-0256,Patient reported headache. Patient age: 59. Severity: Moderate.,Neurology,Headache,Moderate,"Assess severity, duration, associated symptoms, and neurological status."
+MED-0257,Patient presented with elevated temperature. Patient age: 34. Severity: Low.,General Medicine,Fever,Low,"Check temperature, vital signs, and associated symptoms."
+MED-0258,Patient reported joint pain. Patient age: 50. Severity: Low.,Orthopedics,Joint Pain,Low,"Assess mobility, swelling, and injury history."
+MED-0259,Patient had a low glucose reading. Patient age: 61. Severity: High.,Endocrinology,Low Blood Sugar,High,Assess symptoms immediately and follow clinical emergency protocol.
+MED-0260,Patient reported difficulty breathing. Patient age: 36. Severity: Low.,Respiratory,Breathing Difficulty,Low,Check oxygen saturation and vital signs; escalate when required.
+MED-0261,Patient reported nausea. Patient age: 64. Severity: High.,Gastroenterology,Nausea,High,Assess hydration and associated symptoms.
+MED-0262,Patient reported difficulty breathing. Patient age: 51. Severity: Low.,Respiratory,Breathing Difficulty,Low,Check oxygen saturation and vital signs; escalate when required.
+MED-0263,Patient reported difficulty breathing. Patient age: 51. Severity: Moderate.,Respiratory,Breathing Difficulty,Moderate,Check oxygen saturation and vital signs; escalate when required.
+MED-0264,Patient reported unusual tiredness. Patient age: 47. Severity: Low.,General Medicine,Fatigue,Low,"Review duration, sleep, medications, and associated symptoms."
+MED-0265,Patient had an elevated glucose reading. Patient age: 59. Severity: High.,Endocrinology,High Blood Sugar,High,Repeat measurement when appropriate and assess symptoms.
+MED-0266,Patient reported abdominal discomfort. Patient age: 77. Severity: High.,Gastroenterology,Abdominal Pain,High,"Assess pain location, severity, duration, and associated symptoms."
+MED-0267,Patient reported persistent itching. Patient age: 35. Severity: Low.,Dermatology,Itching,Low,Assess skin condition and possible triggers.
+MED-0268,Patient reported chest discomfort. Patient age: 81. Severity: Moderate.,Cardiology,Chest Pain,Moderate,Assess vital signs and ECG; follow clinical protocol.
+MED-0269,Patient reported persistent cough. Patient age: 35. Severity: Low.,Respiratory,Cough,Low,"Assess duration, associated symptoms, and respiratory status."
+MED-0270,Patient reported unusual tiredness. Patient age: 71. Severity: Moderate.,General Medicine,Fatigue,Moderate,"Review duration, sleep, medications, and associated symptoms."
+MED-0271,Patient reported dizziness. Patient age: 30. Severity: High.,Neurology,Dizziness,High,Check vital signs and neurological status.
+MED-0272,Patient had a low glucose reading. Patient age: 22. Severity: Moderate.,Endocrinology,Low Blood Sugar,Moderate,Assess symptoms immediately and follow clinical emergency protocol.
+MED-0273,Patient reported back pain. Patient age: 74. Severity: Moderate.,Orthopedics,Back Pain,Moderate,"Assess pain severity, movement limitations, and injury history."
+MED-0274,Patient reported nausea. Patient age: 65. Severity: Low.,Gastroenterology,Nausea,Low,Assess hydration and associated symptoms.
+MED-0275,Patient reported back pain. Patient age: 53. Severity: Moderate.,Orthopedics,Back Pain,Moderate,"Assess pain severity, movement limitations, and injury history."
+MED-0276,Patient reported abdominal discomfort. Patient age: 29. Severity: Moderate.,Gastroenterology,Abdominal Pain,Moderate,"Assess pain location, severity, duration, and associated symptoms."
+MED-0277,Patient reported abdominal discomfort. Patient age: 60. Severity: Low.,Gastroenterology,Abdominal Pain,Low,"Assess pain location, severity, duration, and associated symptoms."
+MED-0278,Patient reported abdominal discomfort. Patient age: 44. Severity: High.,Gastroenterology,Abdominal Pain,High,"Assess pain location, severity, duration, and associated symptoms."
+MED-0279,Patient reported persistent cough. Patient age: 45. Severity: High.,Respiratory,Cough,High,"Assess duration, associated symptoms, and respiratory status."
+MED-0280,Patient reported nausea. Patient age: 18. Severity: Low.,Gastroenterology,Nausea,Low,Assess hydration and associated symptoms.
+MED-0281,Patient presented with a skin rash. Patient age: 50. Severity: Low.,Dermatology,Skin Rash,Low,"Assess onset, distribution, possible triggers, and associated symptoms."
+MED-0282,Patient reported headache. Patient age: 21. Severity: High.,Neurology,Headache,High,"Assess severity, duration, associated symptoms, and neurological status."
+MED-0283,Patient reported headache. Patient age: 48. Severity: Moderate.,Neurology,Headache,Moderate,"Assess severity, duration, associated symptoms, and neurological status."
+MED-0284,Patient reported back pain. Patient age: 51. Severity: Low.,Orthopedics,Back Pain,Low,"Assess pain severity, movement limitations, and injury history."
+MED-0285,Patient reported chest discomfort. Patient age: 71. Severity: High.,Cardiology,Chest Pain,High,Assess vital signs and ECG; follow clinical protocol.
+MED-0286,Patient reported persistent cough. Patient age: 75. Severity: Moderate.,Respiratory,Cough,Moderate,"Assess duration, associated symptoms, and respiratory status."
+MED-0287,Patient reported back pain. Patient age: 82. Severity: Moderate.,Orthopedics,Back Pain,Moderate,"Assess pain severity, movement limitations, and injury history."
+MED-0288,Patient reported abdominal discomfort. Patient age: 84. Severity: High.,Gastroenterology,Abdominal Pain,High,"Assess pain location, severity, duration, and associated symptoms."
+MED-0289,Patient reported persistent itching. Patient age: 21. Severity: High.,Dermatology,Itching,High,Assess skin condition and possible triggers.
+MED-0290,Patient reported rapid or irregular heartbeat. Patient age: 72. Severity: Moderate.,Cardiology,Palpitations,Moderate,Check vital signs and ECG; review history and medications.
+MED-0291,Patient reported difficulty breathing. Patient age: 74. Severity: High.,Respiratory,Breathing Difficulty,High,Check oxygen saturation and vital signs; escalate when required.
+MED-0292,Patient reported persistent cough. Patient age: 36. Severity: Moderate.,Respiratory,Cough,Moderate,"Assess duration, associated symptoms, and respiratory status."
+MED-0293,Patient reported persistent cough. Patient age: 59. Severity: Moderate.,Respiratory,Cough,Moderate,"Assess duration, associated symptoms, and respiratory status."
+MED-0294,Patient reported unusual tiredness. Patient age: 82. Severity: Moderate.,General Medicine,Fatigue,Moderate,"Review duration, sleep, medications, and associated symptoms."
+MED-0295,Patient presented with elevated temperature. Patient age: 32. Severity: High.,General Medicine,Fever,High,"Check temperature, vital signs, and associated symptoms."
+MED-0296,Patient reported nausea. Patient age: 47. Severity: Moderate.,Gastroenterology,Nausea,Moderate,Assess hydration and associated symptoms.
+MED-0297,Patient reported unusual tiredness. Patient age: 69. Severity: Moderate.,General Medicine,Fatigue,Moderate,"Review duration, sleep, medications, and associated symptoms."
+MED-0298,Patient presented with elevated temperature. Patient age: 72. Severity: Moderate.,General Medicine,Fever,Moderate,"Check temperature, vital signs, and associated symptoms."
+MED-0299,Patient reported joint pain. Patient age: 37. Severity: Moderate.,Orthopedics,Joint Pain,Moderate,"Assess mobility, swelling, and injury history."
+MED-0300,Patient had an elevated glucose reading. Patient age: 28. Severity: Low.,Endocrinology,High Blood Sugar,Low,Repeat measurement when appropriate and assess symptoms.
+MED-0301,Patient reported difficulty breathing. Patient age: 65. Severity: Low.,Respiratory,Breathing Difficulty,Low,Check oxygen saturation and vital signs; escalate when required.
+MED-0302,Patient reported headache. Patient age: 60. Severity: High.,Neurology,Headache,High,"Assess severity, duration, associated symptoms, and neurological status."
+MED-0303,Patient reported difficulty breathing. Patient age: 72. Severity: Moderate.,Respiratory,Breathing Difficulty,Moderate,Check oxygen saturation and vital signs; escalate when required.
+MED-0304,Patient reported rapid or irregular heartbeat. Patient age: 57. Severity: High.,Cardiology,Palpitations,High,Check vital signs and ECG; review history and medications.
+MED-0305,Patient reported back pain. Patient age: 82. Severity: High.,Orthopedics,Back Pain,High,"Assess pain severity, movement limitations, and injury history."
+MED-0306,Patient reported abdominal discomfort. Patient age: 79. Severity: High.,Gastroenterology,Abdominal Pain,High,"Assess pain location, severity, duration, and associated symptoms."
+MED-0307,Patient reported abdominal discomfort. Patient age: 65. Severity: Moderate.,Gastroenterology,Abdominal Pain,Moderate,"Assess pain location, severity, duration, and associated symptoms."
+MED-0308,Patient reported difficulty breathing. Patient age: 46. Severity: High.,Respiratory,Breathing Difficulty,High,Check oxygen saturation and vital signs; escalate when required.
+MED-0309,Patient presented with elevated temperature. Patient age: 52. Severity: High.,General Medicine,Fever,High,"Check temperature, vital signs, and associated symptoms."
+MED-0310,Patient reported chest discomfort. Patient age: 57. Severity: Moderate.,Cardiology,Chest Pain,Moderate,Assess vital signs and ECG; follow clinical protocol.
+MED-0311,Patient reported joint pain. Patient age: 41. Severity: Low.,Orthopedics,Joint Pain,Low,"Assess mobility, swelling, and injury history."
+MED-0312,Patient reported dizziness. Patient age: 36. Severity: Low.,Neurology,Dizziness,Low,Check vital signs and neurological status.
+MED-0313,Patient reported chest discomfort. Patient age: 85. Severity: High.,Cardiology,Chest Pain,High,Assess vital signs and ECG; follow clinical protocol.
+MED-0314,Patient reported nausea. Patient age: 76. Severity: Moderate.,Gastroenterology,Nausea,Moderate,Assess hydration and associated symptoms.
+MED-0315,Patient reported back pain. Patient age: 57. Severity: Moderate.,Orthopedics,Back Pain,Moderate,"Assess pain severity, movement limitations, and injury history."
+MED-0316,Patient reported back pain. Patient age: 37. Severity: Low.,Orthopedics,Back Pain,Low,"Assess pain severity, movement limitations, and injury history."
+MED-0317,Patient reported headache. Patient age: 28. Severity: High.,Neurology,Headache,High,"Assess severity, duration, associated symptoms, and neurological status."
+MED-0318,Patient reported persistent itching. Patient age: 72. Severity: High.,Dermatology,Itching,High,Assess skin condition and possible triggers.
+MED-0319,Patient had a low glucose reading. Patient age: 52. Severity: Moderate.,Endocrinology,Low Blood Sugar,Moderate,Assess symptoms immediately and follow clinical emergency protocol.
+MED-0320,Patient reported abdominal discomfort. Patient age: 73. Severity: Moderate.,Gastroenterology,Abdominal Pain,Moderate,"Assess pain location, severity, duration, and associated symptoms."
+MED-0321,Patient reported difficulty breathing. Patient age: 80. Severity: High.,Respiratory,Breathing Difficulty,High,Check oxygen saturation and vital signs; escalate when required.
+MED-0322,Patient presented with a skin rash. Patient age: 68. Severity: Low.,Dermatology,Skin Rash,Low,"Assess onset, distribution, possible triggers, and associated symptoms."
+MED-0323,Patient reported chest discomfort. Patient age: 56. Severity: Low.,Cardiology,Chest Pain,Low,Assess vital signs and ECG; follow clinical protocol.
+MED-0324,Patient reported abdominal discomfort. Patient age: 55. Severity: Moderate.,Gastroenterology,Abdominal Pain,Moderate,"Assess pain location, severity, duration, and associated symptoms."
+MED-0325,Patient reported back pain. Patient age: 81. Severity: Low.,Orthopedics,Back Pain,Low,"Assess pain severity, movement limitations, and injury history."
+MED-0326,Patient presented with elevated temperature. Patient age: 66. Severity: Low.,General Medicine,Fever,Low,"Check temperature, vital signs, and associated symptoms."
+MED-0327,Patient reported nausea. Patient age: 68. Severity: Low.,Gastroenterology,Nausea,Low,Assess hydration and associated symptoms.
+MED-0328,Patient reported rapid or irregular heartbeat. Patient age: 76. Severity: Low.,Cardiology,Palpitations,Low,Check vital signs and ECG; review history and medications.
+MED-0329,Patient reported difficulty breathing. Patient age: 72. Severity: High.,Respiratory,Breathing Difficulty,High,Check oxygen saturation and vital signs; escalate when required.
+MED-0330,Patient reported unusual tiredness. Patient age: 32. Severity: Moderate.,General Medicine,Fatigue,Moderate,"Review duration, sleep, medications, and associated symptoms."
+MED-0331,Patient presented with elevated temperature. Patient age: 39. Severity: Moderate.,General Medicine,Fever,Moderate,"Check temperature, vital signs, and associated symptoms."
+MED-0332,Patient had a low glucose reading. Patient age: 73. Severity: Low.,Endocrinology,Low Blood Sugar,Low,Assess symptoms immediately and follow clinical emergency protocol.
+MED-0333,Patient reported persistent cough. Patient age: 69. Severity: Moderate.,Respiratory,Cough,Moderate,"Assess duration, associated symptoms, and respiratory status."
+MED-0334,Patient reported difficulty breathing. Patient age: 61. Severity: Moderate.,Respiratory,Breathing Difficulty,Moderate,Check oxygen saturation and vital signs; escalate when required.
+MED-0335,Patient reported nausea. Patient age: 27. Severity: Low.,Gastroenterology,Nausea,Low,Assess hydration and associated symptoms.
+MED-0336,Patient reported persistent cough. Patient age: 62. Severity: Moderate.,Respiratory,Cough,Moderate,"Assess duration, associated symptoms, and respiratory status."
+MED-0337,Patient reported headache. Patient age: 36. Severity: Low.,Neurology,Headache,Low,"Assess severity, duration, associated symptoms, and neurological status."
+MED-0338,Patient presented with a skin rash. Patient age: 37. Severity: Low.,Dermatology,Skin Rash,Low,"Assess onset, distribution, possible triggers, and associated symptoms."
+MED-0339,Patient reported persistent cough. Patient age: 81. Severity: High.,Respiratory,Cough,High,"Assess duration, associated symptoms, and respiratory status."
+MED-0340,Patient had a low glucose reading. Patient age: 59. Severity: High.,Endocrinology,Low Blood Sugar,High,Assess symptoms immediately and follow clinical emergency protocol.
+MED-0341,Patient reported back pain. Patient age: 26. Severity: Moderate.,Orthopedics,Back Pain,Moderate,"Assess pain severity, movement limitations, and injury history."
+MED-0342,Patient had a low glucose reading. Patient age: 56. Severity: High.,Endocrinology,Low Blood Sugar,High,Assess symptoms immediately and follow clinical emergency protocol.
+MED-0343,Patient presented with a skin rash. Patient age: 82. Severity: Moderate.,Dermatology,Skin Rash,Moderate,"Assess onset, distribution, possible triggers, and associated symptoms."
+MED-0344,Patient reported difficulty breathing. Patient age: 75. Severity: Moderate.,Respiratory,Breathing Difficulty,Moderate,Check oxygen saturation and vital signs; escalate when required.
+MED-0345,Patient reported chest discomfort. Patient age: 54. Severity: Moderate.,Cardiology,Chest Pain,Moderate,Assess vital signs and ECG; follow clinical protocol.
+MED-0346,Patient reported persistent cough. Patient age: 82. Severity: High.,Respiratory,Cough,High,"Assess duration, associated symptoms, and respiratory status."
+MED-0347,Patient reported unusual tiredness. Patient age: 23. Severity: High.,General Medicine,Fatigue,High,"Review duration, sleep, medications, and associated symptoms."
+MED-0348,Patient had an elevated glucose reading. Patient age: 78. Severity: Moderate.,Endocrinology,High Blood Sugar,Moderate,Repeat measurement when appropriate and assess symptoms.
+MED-0349,Patient reported headache. Patient age: 31. Severity: Moderate.,Neurology,Headache,Moderate,"Assess severity, duration, associated symptoms, and neurological status."
+MED-0350,Patient reported back pain. Patient age: 40. Severity: High.,Orthopedics,Back Pain,High,"Assess pain severity, movement limitations, and injury history."
+MED-0351,Patient reported chest discomfort. Patient age: 74. Severity: High.,Cardiology,Chest Pain,High,Assess vital signs and ECG; follow clinical protocol.
+MED-0352,Patient had an elevated glucose reading. Patient age: 65. Severity: Moderate.,Endocrinology,High Blood Sugar,Moderate,Repeat measurement when appropriate and assess symptoms.
+MED-0353,Patient reported persistent itching. Patient age: 61. Severity: Moderate.,Dermatology,Itching,Moderate,Assess skin condition and possible triggers.
+MED-0354,Patient reported rapid or irregular heartbeat. Patient age: 60. Severity: Low.,Cardiology,Palpitations,Low,Check vital signs and ECG; review history and medications.
+MED-0355,Patient reported difficulty breathing. Patient age: 50. Severity: Moderate.,Respiratory,Breathing Difficulty,Moderate,Check oxygen saturation and vital signs; escalate when required.
+MED-0356,Patient reported dizziness. Patient age: 36. Severity: Low.,Neurology,Dizziness,Low,Check vital signs and neurological status.
+MED-0357,Patient reported joint pain. Patient age: 68. Severity: High.,Orthopedics,Joint Pain,High,"Assess mobility, swelling, and injury history."
+MED-0358,Patient reported headache. Patient age: 66. Severity: Moderate.,Neurology,Headache,Moderate,"Assess severity, duration, associated symptoms, and neurological status."
+MED-0359,Patient reported back pain. Patient age: 85. Severity: High.,Orthopedics,Back Pain,High,"Assess pain severity, movement limitations, and injury history."
+MED-0360,Patient reported difficulty breathing. Patient age: 64. Severity: High.,Respiratory,Breathing Difficulty,High,Check oxygen saturation and vital signs; escalate when required.
+MED-0361,Patient reported rapid or irregular heartbeat. Patient age: 41. Severity: Moderate.,Cardiology,Palpitations,Moderate,Check vital signs and ECG; review history and medications.
+MED-0362,Patient reported nausea. Patient age: 42. Severity: Moderate.,Gastroenterology,Nausea,Moderate,Assess hydration and associated symptoms.
+MED-0363,Patient reported abdominal discomfort. Patient age: 27. Severity: Low.,Gastroenterology,Abdominal Pain,Low,"Assess pain location, severity, duration, and associated symptoms."
+MED-0364,Patient presented with a skin rash. Patient age: 85. Severity: High.,Dermatology,Skin Rash,High,"Assess onset, distribution, possible triggers, and associated symptoms."
+MED-0365,Patient reported rapid or irregular heartbeat. Patient age: 34. Severity: High.,Cardiology,Palpitations,High,Check vital signs and ECG; review history and medications.
+MED-0366,Patient presented with elevated temperature. Patient age: 41. Severity: Low.,General Medicine,Fever,Low,"Check temperature, vital signs, and associated symptoms."
+MED-0367,Patient reported dizziness. Patient age: 70. Severity: Low.,Neurology,Dizziness,Low,Check vital signs and neurological status.
+MED-0368,Patient reported back pain. Patient age: 54. Severity: Moderate.,Orthopedics,Back Pain,Moderate,"Assess pain severity, movement limitations, and injury history."
+MED-0369,Patient had an elevated glucose reading. Patient age: 48. Severity: High.,Endocrinology,High Blood Sugar,High,Repeat measurement when appropriate and assess symptoms.
+MED-0370,Patient reported persistent itching. Patient age: 65. Severity: Low.,Dermatology,Itching,Low,Assess skin condition and possible triggers.
+MED-0371,Patient had a low glucose reading. Patient age: 66. Severity: Moderate.,Endocrinology,Low Blood Sugar,Moderate,Assess symptoms immediately and follow clinical emergency protocol.
+MED-0372,Patient presented with elevated temperature. Patient age: 35. Severity: Low.,General Medicine,Fever,Low,"Check temperature, vital signs, and associated symptoms."
+MED-0373,Patient presented with a skin rash. Patient age: 79. Severity: High.,Dermatology,Skin Rash,High,"Assess onset, distribution, possible triggers, and associated symptoms."
+MED-0374,Patient reported back pain. Patient age: 84. Severity: High.,Orthopedics,Back Pain,High,"Assess pain severity, movement limitations, and injury history."
+MED-0375,Patient reported difficulty breathing. Patient age: 38. Severity: Low.,Respiratory,Breathing Difficulty,Low,Check oxygen saturation and vital signs; escalate when required.
+MED-0376,Patient reported persistent itching. Patient age: 36. Severity: High.,Dermatology,Itching,High,Assess skin condition and possible triggers.
+MED-0377,Patient presented with elevated temperature. Patient age: 75. Severity: Low.,General Medicine,Fever,Low,"Check temperature, vital signs, and associated symptoms."
+MED-0378,Patient reported back pain. Patient age: 24. Severity: Moderate.,Orthopedics,Back Pain,Moderate,"Assess pain severity, movement limitations, and injury history."
+MED-0379,Patient reported unusual tiredness. Patient age: 67. Severity: Low.,General Medicine,Fatigue,Low,"Review duration, sleep, medications, and associated symptoms."
+MED-0380,Patient reported difficulty breathing. Patient age: 21. Severity: Low.,Respiratory,Breathing Difficulty,Low,Check oxygen saturation and vital signs; escalate when required.
+MED-0381,Patient reported back pain. Patient age: 60. Severity: High.,Orthopedics,Back Pain,High,"Assess pain severity, movement limitations, and injury history."
+MED-0382,Patient reported headache. Patient age: 54. Severity: Low.,Neurology,Headache,Low,"Assess severity, duration, associated symptoms, and neurological status."
+MED-0383,Patient had an elevated glucose reading. Patient age: 78. Severity: High.,Endocrinology,High Blood Sugar,High,Repeat measurement when appropriate and assess symptoms.
+MED-0384,Patient had an elevated glucose reading. Patient age: 20. Severity: Low.,Endocrinology,High Blood Sugar,Low,Repeat measurement when appropriate and assess symptoms.
+MED-0385,Patient presented with a skin rash. Patient age: 85. Severity: Low.,Dermatology,Skin Rash,Low,"Assess onset, distribution, possible triggers, and associated symptoms."
+MED-0386,Patient presented with elevated temperature. Patient age: 48. Severity: Moderate.,General Medicine,Fever,Moderate,"Check temperature, vital signs, and associated symptoms."
+MED-0387,Patient presented with a skin rash. Patient age: 48. Severity: Low.,Dermatology,Skin Rash,Low,"Assess onset, distribution, possible triggers, and associated symptoms."
+MED-0388,Patient reported unusual tiredness. Patient age: 32. Severity: Low.,General Medicine,Fatigue,Low,"Review duration, sleep, medications, and associated symptoms."
+MED-0389,Patient had an elevated glucose reading. Patient age: 83. Severity: High.,Endocrinology,High Blood Sugar,High,Repeat measurement when appropriate and assess symptoms.
+MED-0390,Patient reported abdominal discomfort. Patient age: 72. Severity: Moderate.,Gastroenterology,Abdominal Pain,Moderate,"Assess pain location, severity, duration, and associated symptoms."
+MED-0391,Patient reported rapid or irregular heartbeat. Patient age: 71. Severity: Low.,Cardiology,Palpitations,Low,Check vital signs and ECG; review history and medications.
+MED-0392,Patient reported headache. Patient age: 64. Severity: High.,Neurology,Headache,High,"Assess severity, duration, associated symptoms, and neurological status."
+MED-0393,Patient reported persistent cough. Patient age: 78. Severity: Moderate.,Respiratory,Cough,Moderate,"Assess duration, associated symptoms, and respiratory status."
+MED-0394,Patient reported rapid or irregular heartbeat. Patient age: 50. Severity: Moderate.,Cardiology,Palpitations,Moderate,Check vital signs and ECG; review history and medications.
+MED-0395,Patient reported rapid or irregular heartbeat. Patient age: 62. Severity: Low.,Cardiology,Palpitations,Low,Check vital signs and ECG; review history and medications.
+MED-0396,Patient reported abdominal discomfort. Patient age: 60. Severity: High.,Gastroenterology,Abdominal Pain,High,"Assess pain location, severity, duration, and associated symptoms."
+MED-0397,Patient reported headache. Patient age: 61. Severity: Moderate.,Neurology,Headache,Moderate,"Assess severity, duration, associated symptoms, and neurological status."
+MED-0398,Patient reported dizziness. Patient age: 79. Severity: High.,Neurology,Dizziness,High,Check vital signs and neurological status.
+MED-0399,Patient reported headache. Patient age: 76. Severity: Low.,Neurology,Headache,Low,"Assess severity, duration, associated symptoms, and neurological status."
+MED-0400,Patient reported rapid or irregular heartbeat. Patient age: 23. Severity: Low.,Cardiology,Palpitations,Low,Check vital signs and ECG; review history and medications.
+MED-0401,Patient reported abdominal discomfort. Patient age: 57. Severity: Moderate.,Gastroenterology,Abdominal Pain,Moderate,"Assess pain location, severity, duration, and associated symptoms."
+MED-0402,Patient reported unusual tiredness. Patient age: 22. Severity: Moderate.,General Medicine,Fatigue,Moderate,"Review duration, sleep, medications, and associated symptoms."
+MED-0403,Patient reported nausea. Patient age: 24. Severity: Moderate.,Gastroenterology,Nausea,Moderate,Assess hydration and associated symptoms.
+MED-0404,Patient reported joint pain. Patient age: 65. Severity: Low.,Orthopedics,Joint Pain,Low,"Assess mobility, swelling, and injury history."
+MED-0405,Patient reported unusual tiredness. Patient age: 74. Severity: High.,General Medicine,Fatigue,High,"Review duration, sleep, medications, and associated symptoms."
+MED-0406,Patient reported unusual tiredness. Patient age: 81. Severity: Low.,General Medicine,Fatigue,Low,"Review duration, sleep, medications, and associated symptoms."
+MED-0407,Patient had a low glucose reading. Patient age: 52. Severity: High.,Endocrinology,Low Blood Sugar,High,Assess symptoms immediately and follow clinical emergency protocol.
+MED-0408,Patient reported difficulty breathing. Patient age: 73. Severity: Low.,Respiratory,Breathing Difficulty,Low,Check oxygen saturation and vital signs; escalate when required.
+MED-0409,Patient reported dizziness. Patient age: 31. Severity: Moderate.,Neurology,Dizziness,Moderate,Check vital signs and neurological status.
+MED-0410,Patient reported difficulty breathing. Patient age: 55. Severity: High.,Respiratory,Breathing Difficulty,High,Check oxygen saturation and vital signs; escalate when required.
+MED-0411,Patient reported persistent itching. Patient age: 72. Severity: High.,Dermatology,Itching,High,Assess skin condition and possible triggers.
+MED-0412,Patient reported dizziness. Patient age: 75. Severity: Moderate.,Neurology,Dizziness,Moderate,Check vital signs and neurological status.
+MED-0413,Patient reported rapid or irregular heartbeat. Patient age: 73. Severity: High.,Cardiology,Palpitations,High,Check vital signs and ECG; review history and medications.
+MED-0414,Patient presented with a skin rash. Patient age: 69. Severity: Low.,Dermatology,Skin Rash,Low,"Assess onset, distribution, possible triggers, and associated symptoms."
+MED-0415,Patient reported back pain. Patient age: 36. Severity: Low.,Orthopedics,Back Pain,Low,"Assess pain severity, movement limitations, and injury history."
+MED-0416,Patient had an elevated glucose reading. Patient age: 26. Severity: Low.,Endocrinology,High Blood Sugar,Low,Repeat measurement when appropriate and assess symptoms.
+MED-0417,Patient reported nausea. Patient age: 67. Severity: Moderate.,Gastroenterology,Nausea,Moderate,Assess hydration and associated symptoms.
+MED-0418,Patient reported chest discomfort. Patient age: 75. Severity: High.,Cardiology,Chest Pain,High,Assess vital signs and ECG; follow clinical protocol.
+MED-0419,Patient reported joint pain. Patient age: 27. Severity: Moderate.,Orthopedics,Joint Pain,Moderate,"Assess mobility, swelling, and injury history."
+MED-0420,Patient reported dizziness. Patient age: 58. Severity: Moderate.,Neurology,Dizziness,Moderate,Check vital signs and neurological status.
+MED-0421,Patient presented with a skin rash. Patient age: 21. Severity: Low.,Dermatology,Skin Rash,Low,"Assess onset, distribution, possible triggers, and associated symptoms."
+MED-0422,Patient reported dizziness. Patient age: 67. Severity: High.,Neurology,Dizziness,High,Check vital signs and neurological status.
+MED-0423,Patient reported difficulty breathing. Patient age: 75. Severity: Moderate.,Respiratory,Breathing Difficulty,Moderate,Check oxygen saturation and vital signs; escalate when required.
+MED-0424,Patient reported nausea. Patient age: 80. Severity: High.,Gastroenterology,Nausea,High,Assess hydration and associated symptoms.
+MED-0425,Patient reported abdominal discomfort. Patient age: 27. Severity: Low.,Gastroenterology,Abdominal Pain,Low,"Assess pain location, severity, duration, and associated symptoms."
+MED-0426,Patient had an elevated glucose reading. Patient age: 74. Severity: High.,Endocrinology,High Blood Sugar,High,Repeat measurement when appropriate and assess symptoms.
+MED-0427,Patient reported difficulty breathing. Patient age: 62. Severity: High.,Respiratory,Breathing Difficulty,High,Check oxygen saturation and vital signs; escalate when required.
+MED-0428,Patient reported difficulty breathing. Patient age: 38. Severity: Moderate.,Respiratory,Breathing Difficulty,Moderate,Check oxygen saturation and vital signs; escalate when required.
+MED-0429,Patient reported dizziness. Patient age: 46. Severity: High.,Neurology,Dizziness,High,Check vital signs and neurological status.
+MED-0430,Patient reported persistent cough. Patient age: 48. Severity: Low.,Respiratory,Cough,Low,"Assess duration, associated symptoms, and respiratory status."
+MED-0431,Patient had an elevated glucose reading. Patient age: 65. Severity: Moderate.,Endocrinology,High Blood Sugar,Moderate,Repeat measurement when appropriate and assess symptoms.
+MED-0432,Patient had an elevated glucose reading. Patient age: 29. Severity: High.,Endocrinology,High Blood Sugar,High,Repeat measurement when appropriate and assess symptoms.
+MED-0433,Patient reported difficulty breathing. Patient age: 79. Severity: Moderate.,Respiratory,Breathing Difficulty,Moderate,Check oxygen saturation and vital signs; escalate when required.
+MED-0434,Patient reported unusual tiredness. Patient age: 27. Severity: High.,General Medicine,Fatigue,High,"Review duration, sleep, medications, and associated symptoms."
+MED-0435,Patient reported dizziness. Patient age: 27. Severity: High.,Neurology,Dizziness,High,Check vital signs and neurological status.
+MED-0436,Patient had a low glucose reading. Patient age: 84. Severity: High.,Endocrinology,Low Blood Sugar,High,Assess symptoms immediately and follow clinical emergency protocol.
+MED-0437,Patient reported back pain. Patient age: 41. Severity: High.,Orthopedics,Back Pain,High,"Assess pain severity, movement limitations, and injury history."
+MED-0438,Patient reported dizziness. Patient age: 25. Severity: High.,Neurology,Dizziness,High,Check vital signs and neurological status.
+MED-0439,Patient reported persistent cough. Patient age: 39. Severity: Moderate.,Respiratory,Cough,Moderate,"Assess duration, associated symptoms, and respiratory status."
+MED-0440,Patient reported dizziness. Patient age: 46. Severity: High.,Neurology,Dizziness,High,Check vital signs and neurological status.
+MED-0441,Patient reported joint pain. Patient age: 50. Severity: Low.,Orthopedics,Joint Pain,Low,"Assess mobility, swelling, and injury history."
+MED-0442,Patient reported nausea. Patient age: 56. Severity: Low.,Gastroenterology,Nausea,Low,Assess hydration and associated symptoms.
+MED-0443,Patient reported persistent cough. Patient age: 37. Severity: High.,Respiratory,Cough,High,"Assess duration, associated symptoms, and respiratory status."
+MED-0444,Patient reported dizziness. Patient age: 23. Severity: High.,Neurology,Dizziness,High,Check vital signs and neurological status.
+MED-0445,Patient reported chest discomfort. Patient age: 51. Severity: Low.,Cardiology,Chest Pain,Low,Assess vital signs and ECG; follow clinical protocol.
+MED-0446,Patient reported nausea. Patient age: 21. Severity: High.,Gastroenterology,Nausea,High,Assess hydration and associated symptoms.
+MED-0447,Patient had a low glucose reading. Patient age: 56. Severity: High.,Endocrinology,Low Blood Sugar,High,Assess symptoms immediately and follow clinical emergency protocol.
+MED-0448,Patient had an elevated glucose reading. Patient age: 69. Severity: High.,Endocrinology,High Blood Sugar,High,Repeat measurement when appropriate and assess symptoms.
+MED-0449,Patient reported persistent itching. Patient age: 25. Severity: Low.,Dermatology,Itching,Low,Assess skin condition and possible triggers.
+MED-0450,Patient reported dizziness. Patient age: 79. Severity: Moderate.,Neurology,Dizziness,Moderate,Check vital signs and neurological status.
+MED-0451,Patient had an elevated glucose reading. Patient age: 36. Severity: Moderate.,Endocrinology,High Blood Sugar,Moderate,Repeat measurement when appropriate and assess symptoms.
+MED-0452,Patient reported joint pain. Patient age: 62. Severity: High.,Orthopedics,Joint Pain,High,"Assess mobility, swelling, and injury history."
+MED-0453,Patient presented with elevated temperature. Patient age: 83. Severity: Moderate.,General Medicine,Fever,Moderate,"Check temperature, vital signs, and associated symptoms."
+MED-0454,Patient reported difficulty breathing. Patient age: 77. Severity: Low.,Respiratory,Breathing Difficulty,Low,Check oxygen saturation and vital signs; escalate when required.
+MED-0455,Patient reported difficulty breathing. Patient age: 49. Severity: Moderate.,Respiratory,Breathing Difficulty,Moderate,Check oxygen saturation and vital signs; escalate when required.
+MED-0456,Patient reported headache. Patient age: 55. Severity: Low.,Neurology,Headache,Low,"Assess severity, duration, associated symptoms, and neurological status."
+MED-0457,Patient reported unusual tiredness. Patient age: 38. Severity: Low.,General Medicine,Fatigue,Low,"Review duration, sleep, medications, and associated symptoms."
+MED-0458,Patient reported joint pain. Patient age: 38. Severity: Low.,Orthopedics,Joint Pain,Low,"Assess mobility, swelling, and injury history."
+MED-0459,Patient had a low glucose reading. Patient age: 57. Severity: Moderate.,Endocrinology,Low Blood Sugar,Moderate,Assess symptoms immediately and follow clinical emergency protocol.
+MED-0460,Patient had an elevated glucose reading. Patient age: 68. Severity: Low.,Endocrinology,High Blood Sugar,Low,Repeat measurement when appropriate and assess symptoms.
+MED-0461,Patient had an elevated glucose reading. Patient age: 63. Severity: Low.,Endocrinology,High Blood Sugar,Low,Repeat measurement when appropriate and assess symptoms.
+MED-0462,Patient reported chest discomfort. Patient age: 81. Severity: Moderate.,Cardiology,Chest Pain,Moderate,Assess vital signs and ECG; follow clinical protocol.
+MED-0463,Patient had a low glucose reading. Patient age: 19. Severity: High.,Endocrinology,Low Blood Sugar,High,Assess symptoms immediately and follow clinical emergency protocol.
+MED-0464,Patient reported difficulty breathing. Patient age: 51. Severity: Low.,Respiratory,Breathing Difficulty,Low,Check oxygen saturation and vital signs; escalate when required.
+MED-0465,Patient reported joint pain. Patient age: 23. Severity: Moderate.,Orthopedics,Joint Pain,Moderate,"Assess mobility, swelling, and injury history."
+MED-0466,Patient presented with elevated temperature. Patient age: 42. Severity: High.,General Medicine,Fever,High,"Check temperature, vital signs, and associated symptoms."
+MED-0467,Patient reported joint pain. Patient age: 67. Severity: Low.,Orthopedics,Joint Pain,Low,"Assess mobility, swelling, and injury history."
+MED-0468,Patient had a low glucose reading. Patient age: 33. Severity: High.,Endocrinology,Low Blood Sugar,High,Assess symptoms immediately and follow clinical emergency protocol.
+MED-0469,Patient reported headache. Patient age: 65. Severity: Moderate.,Neurology,Headache,Moderate,"Assess severity, duration, associated symptoms, and neurological status."
+MED-0470,Patient reported joint pain. Patient age: 43. Severity: Low.,Orthopedics,Joint Pain,Low,"Assess mobility, swelling, and injury history."
+MED-0471,Patient presented with elevated temperature. Patient age: 22. Severity: Low.,General Medicine,Fever,Low,"Check temperature, vital signs, and associated symptoms."
+MED-0472,Patient reported dizziness. Patient age: 84. Severity: Moderate.,Neurology,Dizziness,Moderate,Check vital signs and neurological status.
+MED-0473,Patient had an elevated glucose reading. Patient age: 83. Severity: High.,Endocrinology,High Blood Sugar,High,Repeat measurement when appropriate and assess symptoms.
+MED-0474,Patient reported dizziness. Patient age: 58. Severity: High.,Neurology,Dizziness,High,Check vital signs and neurological status.
+MED-0475,Patient reported dizziness. Patient age: 56. Severity: High.,Neurology,Dizziness,High,Check vital signs and neurological status.
+MED-0476,Patient reported joint pain. Patient age: 56. Severity: High.,Orthopedics,Joint Pain,High,"Assess mobility, swelling, and injury history."
+MED-0477,Patient had an elevated glucose reading. Patient age: 60. Severity: Moderate.,Endocrinology,High Blood Sugar,Moderate,Repeat measurement when appropriate and assess symptoms.
+MED-0478,Patient reported difficulty breathing. Patient age: 57. Severity: High.,Respiratory,Breathing Difficulty,High,Check oxygen saturation and vital signs; escalate when required.
+MED-0479,Patient reported rapid or irregular heartbeat. Patient age: 47. Severity: Moderate.,Cardiology,Palpitations,Moderate,Check vital signs and ECG; review history and medications.
+MED-0480,Patient reported rapid or irregular heartbeat. Patient age: 85. Severity: Low.,Cardiology,Palpitations,Low,Check vital signs and ECG; review history and medications.
+MED-0481,Patient presented with elevated temperature. Patient age: 49. Severity: High.,General Medicine,Fever,High,"Check temperature, vital signs, and associated symptoms."
+MED-0482,Patient reported chest discomfort. Patient age: 20. Severity: Low.,Cardiology,Chest Pain,Low,Assess vital signs and ECG; follow clinical protocol.
+MED-0483,Patient had a low glucose reading. Patient age: 37. Severity: Moderate.,Endocrinology,Low Blood Sugar,Moderate,Assess symptoms immediately and follow clinical emergency protocol.
+MED-0484,Patient presented with elevated temperature. Patient age: 82. Severity: Moderate.,General Medicine,Fever,Moderate,"Check temperature, vital signs, and associated symptoms."
+MED-0485,Patient had an elevated glucose reading. Patient age: 35. Severity: High.,Endocrinology,High Blood Sugar,High,Repeat measurement when appropriate and assess symptoms.
+MED-0486,Patient reported nausea. Patient age: 79. Severity: High.,Gastroenterology,Nausea,High,Assess hydration and associated symptoms.
+MED-0487,Patient reported unusual tiredness. Patient age: 76. Severity: Low.,General Medicine,Fatigue,Low,"Review duration, sleep, medications, and associated symptoms."
+MED-0488,Patient reported joint pain. Patient age: 51. Severity: High.,Orthopedics,Joint Pain,High,"Assess mobility, swelling, and injury history."
+MED-0489,Patient had an elevated glucose reading. Patient age: 53. Severity: Low.,Endocrinology,High Blood Sugar,Low,Repeat measurement when appropriate and assess symptoms.
+MED-0490,Patient presented with a skin rash. Patient age: 54. Severity: Moderate.,Dermatology,Skin Rash,Moderate,"Assess onset, distribution, possible triggers, and associated symptoms."
+MED-0491,Patient reported nausea. Patient age: 79. Severity: Moderate.,Gastroenterology,Nausea,Moderate,Assess hydration and associated symptoms.
+MED-0492,Patient reported joint pain. Patient age: 33. Severity: Moderate.,Orthopedics,Joint Pain,Moderate,"Assess mobility, swelling, and injury history."
+MED-0493,Patient reported unusual tiredness. Patient age: 36. Severity: Moderate.,General Medicine,Fatigue,Moderate,"Review duration, sleep, medications, and associated symptoms."
+MED-0494,Patient presented with a skin rash. Patient age: 28. Severity: Moderate.,Dermatology,Skin Rash,Moderate,"Assess onset, distribution, possible triggers, and associated symptoms."
+MED-0495,Patient reported joint pain. Patient age: 50. Severity: High.,Orthopedics,Joint Pain,High,"Assess mobility, swelling, and injury history."
+MED-0496,Patient had an elevated glucose reading. Patient age: 52. Severity: Low.,Endocrinology,High Blood Sugar,Low,Repeat measurement when appropriate and assess symptoms.
+MED-0497,Patient presented with a skin rash. Patient age: 48. Severity: Low.,Dermatology,Skin Rash,Low,"Assess onset, distribution, possible triggers, and associated symptoms."
+MED-0498,Patient reported abdominal discomfort. Patient age: 85. Severity: High.,Gastroenterology,Abdominal Pain,High,"Assess pain location, severity, duration, and associated symptoms."
+MED-0499,Patient reported abdominal discomfort. Patient age: 30. Severity: Low.,Gastroenterology,Abdominal Pain,Low,"Assess pain location, severity, duration, and associated symptoms."
+MED-0500,Patient reported unusual tiredness. Patient age: 78. Severity: High.,General Medicine,Fatigue,High,"Review duration, sleep, medications, and associated symptoms."
