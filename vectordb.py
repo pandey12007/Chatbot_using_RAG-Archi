@@ -7,7 +7,7 @@ from sentence_transformers import SentenceTransformer
 # Load CSV
 # --------------------------------
 
-csv_file_path = r"C:\Users\white walker\Downloads\medical_incident_data_500_rows.csv"
+csv_file_path = r""
 
 df = pd.read_csv(csv_file_path)
 
