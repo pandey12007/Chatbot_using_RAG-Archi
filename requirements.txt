@@ -1,0 +1,7 @@
+pandas
+fastapi
+router
+uvicorn
+chromadb
+sqlalchemy
+Sentence-Transformers
